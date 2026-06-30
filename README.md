@@ -61,8 +61,8 @@ generate or support.
 - `Figure_1B_forward_reverse_2Ns_dotplot.py`
 - `Figure_1C_g_2Ns_histogram.py`
 - `Figure_1D_compare_g_values_across_methods_dotplot.py`
-- `Figure_2A_predicted_codon_frequencies_RSCU_dotplot.py`
-- `Figure_2B_observed_RSCU_g_dotplot.py`
+- `Figure_2B_predicted_codon_frequencies_RSCU_dotplot.py`
+- `Figure_2A_observed_RSCU_g_dotplot.py`
 - `Figure_3A_codon_fitness_vs_expression_slope.py`
 - `Figure_3B_helper_observed_frequency_change.py`
 - `Figure_3B_helper_predicted_frequency_change.py`

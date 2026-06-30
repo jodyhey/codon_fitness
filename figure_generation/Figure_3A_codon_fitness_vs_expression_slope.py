@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Make separate expression-selection figures for manuscript Figure 5A and 5B."""
+"""Figure 3A."""
 
 from __future__ import annotations
 
